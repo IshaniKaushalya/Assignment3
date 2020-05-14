@@ -1,0 +1,723 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fd86bdd-cf82-4630-9d06-79e28feffc03" name="Default" comment="" />
+    <ignored path="${symbol_dollar}PROJECT_DIR${symbol_dollar}/out/" />
+    <ignored path="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/RequestUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e${symbol_pound}787${symbol_pound}788${symbol_pound}0" expanded="true" />
+                <element signature="e${symbol_pound}812${symbol_pound}813${symbol_pound}0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URIs.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/URIs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeadersUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/HeadersUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e${symbol_pound}229${symbol_pound}230${symbol_pound}0" expanded="true" />
+                <element signature="e${symbol_pound}274${symbol_pound}275${symbol_pound}0" expanded="true" />
+                <element signature="e${symbol_pound}307${symbol_pound}308${symbol_pound}0" expanded="true" />
+                <element signature="e${symbol_pound}344${symbol_pound}345${symbol_pound}0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/requests/functions/Project.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/tests/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/ResponseUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e${symbol_pound}1699${symbol_pound}1700${symbol_pound}0" expanded="true" />
+                <element signature="e${symbol_pound}1746${symbol_pound}1747${symbol_pound}0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JacksonUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/JacksonUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatusCodes.java" pinned="false" current-in-tab="false">
+        <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/StatusCodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/Headers.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/HeadersUtil.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/URIs.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/JacksonUtil.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/requests/Project.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/StatusCodes.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/response/model/Project.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/response/model/ProjectModel.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/ResponseUtil.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/Constant.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/HeadersUtil.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/requests/functions/Project.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/tests/LoginTest.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/RequestUtil.java" />
+        <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="818" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="${artifactId}" type="b2602c69:ProjectViewProjectNode" />
+              <item name="${artifactId}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="${package}.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="${symbol_dollar}APPLICATION_HOME_DIR${symbol_dollar}/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="${symbol_dollar}MODULE_DIR${symbol_dollar}" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LoginTest.testGetProject" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="${artifactId}" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="${package}.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="${package}.tests" />
+      <option name="MAIN_CLASS_NAME" value="${package}.tests.LoginTest" />
+      <option name="METHOD_NAME" value="testGetProject" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="${symbol_dollar}MODULE_DIR${symbol_dollar}" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="${symbol_dollar}MODULE_DIR${symbol_dollar}" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.testGetProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>${symbol_dollar}USER_HOME${symbol_dollar}/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fd86bdd-cf82-4630-9d06-79e28feffc03" name="Default" comment="" />
+      <created>1552898029989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552898029989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 13h 23m 18s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 13h 50m 31s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 13h 51m 01s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 13h 51m 37s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 13h 58m 04s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 13h 58m 26s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 13h 58m 53s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 14h 01m 33s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 14h 09m 38s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_testLogin - 2019.03.26 at 14h 15m 29s.xml">
+      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="818" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32871014" />
+      <window_info anchor="right" id="Palette&${symbol_pound}9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0776699" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32871014" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3576538" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994452" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/ResponseUtil.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/tests/LoginTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/ResponseUtil.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/tests/LoginTest.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>ResponseUtil.getDataValueInDataArrayFromResponse(projectList.asString(),1,&quot;description&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new JSONObject(response)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projectLis</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projectList.getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ResponseUtil.getDataValueInDataArrayFromResponse(projectList.asString(),0,&quot;description&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projectList.a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projectList.asString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projectList.getStatusCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projectList.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/util/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/tests/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/RequestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e${symbol_pound}787${symbol_pound}788${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}812${symbol_pound}813${symbol_pound}0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/syscolab/qe/qe-core/0.2.3/qe-core-0.2.3.jar!/com/syscolab/qe/core/api/restassured/RestUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/syscolab/qe/qe-core/0.2.3/qe-core-0.2.3.jar!/com/syscolab/qe/core/api/util/Headers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/util/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/sysco/qe/qe_core/0.0.5/qe_core-0.0.5.jar!/com/syscolab/qe/core/api/restassured/RestUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/sysco/qe/qe_core/0.0.5/qe_core-0.0.5.jar!/com/syscolab/qe/core/api/util/Headers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/response/model/ProjectModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e${symbol_pound}95${symbol_pound}96${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}120${symbol_pound}121${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}155${symbol_pound}156${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}183${symbol_pound}184${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}216${symbol_pound}217${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}246${symbol_pound}247${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}291${symbol_pound}292${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}329${symbol_pound}330${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}360${symbol_pound}361${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}387${symbol_pound}388${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}427${symbol_pound}428${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}459${symbol_pound}460${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}490${symbol_pound}491${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}517${symbol_pound}518${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}557${symbol_pound}558${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}589${symbol_pound}590${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}627${symbol_pound}628${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}661${symbol_pound}662${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}715${symbol_pound}716${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}761${symbol_pound}762${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}793${symbol_pound}794${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}822${symbol_pound}823${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}865${symbol_pound}866${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}901${symbol_pound}902${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}938${symbol_pound}939${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}971${symbol_pound}972${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1023${symbol_pound}1024${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1067${symbol_pound}1068${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1104${symbol_pound}1105${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1137${symbol_pound}1138${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1189${symbol_pound}1190${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1233${symbol_pound}1234${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1276${symbol_pound}1277${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1315${symbol_pound}1316${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1379${symbol_pound}1380${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1435${symbol_pound}1436${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1475${symbol_pound}1476${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1512${symbol_pound}1513${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1571${symbol_pound}1572${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1623${symbol_pound}1624${symbol_pound}0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/HeadersUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e${symbol_pound}229${symbol_pound}230${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}274${symbol_pound}275${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}307${symbol_pound}308${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}344${symbol_pound}345${symbol_pound}0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/JacksonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/requests/functions/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/StatusCodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/common/URIs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/java/${packageInPathFormat}/tests/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/ResponseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e${symbol_pound}1699${symbol_pound}1700${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}1746${symbol_pound}1747${symbol_pound}0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/util/RequestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e${symbol_pound}787${symbol_pound}788${symbol_pound}0" expanded="true" />
+            <element signature="e${symbol_pound}812${symbol_pound}813${symbol_pound}0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sus</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
